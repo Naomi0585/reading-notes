@@ -1,0 +1,29 @@
+# The Coder's Computer
+
+When using a text editors there will be be some features you should look out for. The most important ones you should consider are; code completion, syntax highlighting, a variety of themes and the ability to choose from a healthy selection of extensions available when needed.
+
+## Commands 
+
+Here are some commands and their uses: 
+* **PWD**
+- Tells you what your current or present working directory is.
+* **ls**
+- This command will tell show your current location in the system. 
+* **cd**
+- Stands for 'change directory' and is used to move around in the system.
+* **mkdir** 
+- Used to create a new directory (folder). 
+* **touch** 
+- Creates a new empty file and/or updates an existing file. 
+
+## Decoding Commands 
+
+`cd projects` = Using this command would take you to the path to a file or directory that contains "projects".
+
+`mkdir new-projects` = In this case, a new directory or file is being created named "new-projects".
+
+`touch new-project/newfile.md` = A new file is being created inside the "new-project" folder. 
+
+`cd..` = This command will take you to the home directory. 
+
+`ls projects/new-project` = Using this coomand will list the contents inside the folder named "new-project". 
