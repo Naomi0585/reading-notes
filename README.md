@@ -18,7 +18,7 @@ To create a **header** you should use: #.
 
 To make a text **bold** you shuold use 2 asterisks (*) or underscores (_) before and after the phrase or word you want to emphasize. 
 
-To make a text 'italicized' add one asterisk (*) or underscore ('_') before and after the phrase or word you want to emphazise. 
+To make a text *italicized* add one asterisk (*) or underscore ('_') before and after the phrase or word you want to emphazise. 
 
 To create a ** link ** enclose the link text in brackets ([,]) and then follow it immediately with the URL enclosed in parenthesis ((,)). 
 
