@@ -1,7 +1,7 @@
 # Read 01: Learning Markdown 
 
 ## What is Markdown?
-** Markdown ** is one of the world's *most popular* markup languages. It can be used to add formatting elements to plaintext text documents. Markdown is used for almost *** everything *** !.
+** Markdown **  is one of the world's *most popular* markup languages. It can be used to add formatting elements to plaintext text documents. Markdown is used for almost *** everything *** !.
 
 ### Some uses for Markdown include: 
 - Creating Websites
