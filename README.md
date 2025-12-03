@@ -1,26 +1,3 @@
-
-
-2025-2026
-
-
-
-
-* [Learning Markdown ](102/read01.md)
-
-* [The Coder's Computer ](102/Read02.md)
-
-* [Read 03](102/Read02.md)
-
-* [Read 04](102/Read02.md)
-
-* [Read 05](102/Read02.md)
-
-* [Read 06](102/Read02.md)
-
-* [Read 07](102/Read02.md)
-
-* [Read 08](102/Read02.md)
-
 ## Hello! (˶ᵔ ᵕ ᵔ˶) Im Naomi. 
 
 ##  **Growth Mindset** 
@@ -33,3 +10,50 @@ while preserving respect for others.
 2. Maintain consistency. 
 
 3. Prioritize your ambitions. 
+
+
+────୨ৎ────────୨ৎ────────୨ৎ────────୨ৎ─────
+
+
+# ★ Code 102 ★
+
+## Table of contents: 
+
+
+
+
+* [Learning Markdown](Code102/read01.md)
+
+* [The Coder's Computer ](Code102/Read02.md)
+
+* [Read 03](Code102/Read03.md)
+
+* [Read 04](Code102/Read03.md)
+
+* [Read 05](Code102/Read03.md)
+
+* [Read 06](Code102/Read03.md)
+
+* [Read 07](Code102/Read03.md)
+
+* [Read 08](Code102/Read03.md)
+
+
+# ★ Code 201 ★
+## Table of contents: 
+* [Read 01](Code102/Read03.md)
+* [Read 02](Code102/Read03.md)
+* [Read 03](Code102/Read03.md)
+* [Read 04](Code102/Read03.md)
+* [Read 05](Code102/Read03.md)
+* [Read 06](Code102/Read03.md)
+* [Read 07](Code102/Read03.md)
+* [Read 08](Code102/Read03.md)
+* [Read 09](Code102/Read03.md)
+* [Read 10](Code102/Read03.md)
+* [Read 11](Code102/Read03.md)
+* [Read 12](Code102/Read03.md)
+* [Read 13](Code102/Read03.md)
+* [Read 14](Code102/Read03.md)
+* [Read 15](Code102/Read03.md)
+
