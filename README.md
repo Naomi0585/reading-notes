@@ -13,9 +13,9 @@
 
 ## Symbols in Markdown
 
-To create a **header** you should use: #.
--The largest heading will need: one '#' symbol. This would be known as "Heading Level 1".
--The smallest heading will need 6 '#' symbols. This would be known as "Heading Level 6".
++To create a **header** you should use: #.
+  -The largest heading will need: one '#' symbol. This would be known as "Heading Level 1".
+  -The smallest heading will need 6 '#' symbols. This would be known as "Heading Level 6".
 
 To make a text **bold** you shuold use 2 asterisks (*) or underscores (_) before and after the phrase or word you want to emphasize. 
 
