@@ -5,15 +5,15 @@ When using a text editors there will be be some features you should look out for
 ## Commands 
 
 Here are some commands and their uses: 
-* **PWD**
+1. **PWD**
 - Tells you what your current or present working directory is.
-* **ls**
+1. **ls**
 - This command will tell show your current location in the system. 
-* **cd**
+1. **cd**
 - Stands for 'change directory' and is used to move around in the system.
-* **mkdir** 
+1. **mkdir** 
 - Used to create a new directory (folder). 
-* **touch** 
+1. **touch** 
 - Creates a new empty file and/or updates an existing file. 
 
 ## Decoding Commands 
