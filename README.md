@@ -22,4 +22,4 @@ To make a text 'italicized' add one asterisk (*) or underscore ('_') before and 
 
 To create a ** link ** enclose the link text in brackets ([,]) and then follow it immediately with the URL enclosed in parenthesis ((,)). 
 
-For unordered (bulleted) lists you can use 3 symbols. Use either dashes, asterisks or plus signs in front of the line items. In the case you need to start the unordered list with numbers lets say followed by a period, you use a backlash ('\') to escape that period. 
+For unordered (bulleted) lists you can use 3 symbols. Use either dashes, asterisks or plus signs in front of the line items. In the case you need to start the unordered list with numbers lets say followed by a period, you use a backlash to escape that period. 
