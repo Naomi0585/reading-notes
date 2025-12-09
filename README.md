@@ -22,13 +22,13 @@ while preserving respect for others.
 
 
 
-* [Learning Markdown](Code102/read01.md)
+* [Read 01:Learning Markdown](Code102/read01.md)
 
-* [The Coder's Computer](Code102/Read02.md)
+* [Read 02:The Coder's Computer](Code102/Read02.md)
 
-* [Revisions and the Cloud](Code102/Read03.md)
+* [Read 03:Revisions and the Cloud](Code102/Read03.md)
 
-* [Read 04](Code102/Read04.md)
+* [Read 04:Structure Web Pages with HTML](Code102/Read04.md)
 
 * [Read 05](Code102/Read03.md)
 
