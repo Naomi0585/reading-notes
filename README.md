@@ -30,7 +30,7 @@ while preserving respect for others.
 
 * [Read 04:Structure Web Pages with HTML](Code102/Read04.md)
 
-* [Read 05](Code102/Read03.md)
+* [Read 05:Design Web pages with CSS](Code102/Read05.md)
 
 * [Read 06](Code102/Read03.md)
 
