@@ -34,7 +34,7 @@ while preserving respect for others.
 
 * [Read 06:Dynamic Web Pages with JavaScript](Code102/Read06.md)
 
-* [Read 07](Code102/Read03.md)
+* [Read 07:Programming with JavaScript](Code102/Read07.md)
 
 * [Read 08](Code102/Read03.md)
 
