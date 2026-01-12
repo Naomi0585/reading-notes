@@ -12,7 +12,7 @@
 
 - A `for` loop will stop executing when the condition for it becomes false. 
 
-4. **How many times will a `while` loop execute? 
+4. **How many times will a `while` loop execute?** 
 
 - A `while` loop will continue as long as the condition is true to it's specifications or until the conditions become false. 
 
