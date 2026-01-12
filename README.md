@@ -36,7 +36,7 @@ while preserving respect for others.
 
 * [Read 07:Programming with JavaScript](Code102/Read07.md)
 
-* [Read 08](Code102/Read03.md)
+* [Read 08:Operators and Loops](Code102/Read08.md)
 
 
 # ★ Code 201 ★
