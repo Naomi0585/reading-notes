@@ -1,7 +1,7 @@
 ## 301 Reading notes 
 
 
-* [Read 01](201/read01.md)
+* [AI and Prompt Engineering](301/prompt-engeneering.md)
 
 * [Read 02](201/read02.md)
 
