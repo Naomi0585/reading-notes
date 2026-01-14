@@ -16,7 +16,7 @@ while preserving respect for others.
 
 
 # ★ Code 102 ★
-## Intro to SOftware Development 
+## Intro to Software Development 
 
 ### Table of contents: 
 
