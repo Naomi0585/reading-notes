@@ -4,7 +4,7 @@
 
 Teach me how to change the oil in my car. Make it easy to follow but still effective. 
 
-## Output 
+## Output: 
 
 Sure! Here’s a simple, step-by-step guide that’s easy to follow but still does the job right. You don’t need to be a mechanic—just take your time.
 
