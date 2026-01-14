@@ -16,10 +16,9 @@ while preserving respect for others.
 
 
 # ★ Code 102 ★
+## Intro to SOftware Development 
 
-## Table of contents: 
-
-
+### Table of contents: 
 
 
 * [Read 01:Learning Markdown](Code102/read01.md)
@@ -40,7 +39,9 @@ while preserving respect for others.
 
 
 # ★ Code 201 ★
-## Table of contents: 
+## Foundations of Software Development 
+
+### Table of contents: 
 * [Read 01](Code102/Read03.md)
 * [Read 02](Code102/Read03.md)
 * [Read 03](Code102/Read03.md)
