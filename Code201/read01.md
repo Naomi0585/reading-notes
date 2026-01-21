@@ -1,11 +1,17 @@
 # Intro to Web Development 
 
 *Knock! Knock!* 
+
 *Who is there?!*
+
 *It is your computer!*
+
 *HTTP Says; "What do you want?"*
+
 *The computer checks, then sends a snack!*
+
 *Some data bytes and the statu's back!* 
+
 
 To me, learning web development matters because creating websites is how you share your creativity, connect in the online worls and can even run a business! On this module I can understand the importance of how websites actually work by learning the specifications of HTML, CSS and JavaScript. With this knowledge Im hoping to transform my ideas into functional projects. Website development shows how coding is not just about typing code but about creating tools that make real world experiences.
 
