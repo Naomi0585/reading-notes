@@ -4,7 +4,7 @@
 
 * [Intro to Web Development](Code201/read01.md)
 
-* [Read 03](201/read01.md) 
+* [Basics of HTML, CSS and JS](Code201/read02.md) 
 
 * [Read 04](201/read01.md)
 
