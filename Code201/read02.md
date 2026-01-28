@@ -56,6 +56,6 @@ An if statement checks a <u>function</u>
  2. === (strictly equal)
  3. != (not equal)
 
- ### NOTE: 
+ ### NOTE!
  * `&&` (AND) = all conditions must be true 
  * `||` (OR) = at least *one* condition must be true
