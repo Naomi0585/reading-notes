@@ -6,7 +6,7 @@
 
 * [Basics of HTML, CSS and JS](Code201/read02.md) 
 
-* [HTML Lists, Control Flow with JS, and the CSS Box Model](Code201/reads03.md)
+* [HTML Lists, Control Flow with JS, and the CSS Box Model](Code201/read03.md)
 
 * [Read 05](201/read01.md)
 
