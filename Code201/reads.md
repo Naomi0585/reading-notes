@@ -6,7 +6,7 @@
 
 * [Basics of HTML, CSS and JS](Code201/read02.md) 
 
-* [HTML Links, JS Functions and Intro to CSS Layout](201/read03.md)
+* [HTML Links, JS Functions and Intro to CSS Layout](Code201/read03.md)
 
 * [Read 05](201/read01.md)
 
