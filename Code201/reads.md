@@ -8,7 +8,7 @@
 
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](Code201/read03.md)
 
-* [HTML Links, JS Functions, and Intro to CSS Layout](201/read04.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](Code201/read04.md)
 
 * [Read 06](201/read01.md)
 
