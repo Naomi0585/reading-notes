@@ -46,7 +46,7 @@ while preserving respect for others.
 * [AI and Prompt Engineering](Code201/Prompte-engeneering.md)
 * [Intro to Web Development](Code201/read01.md)
 * [Basics of HTML, CSS and JS](Code201/read02.md)
-* [Read 04](Code102/Read03.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout](Code201/read04.md)
 * [Read 05](Code102/Read03.md)
 * [Read 06](Code102/Read03.md)
 * [Read 07](Code102/Read03.md)
