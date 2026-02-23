@@ -10,7 +10,7 @@
 
 * [Read 04: HTML Links, JS Functions, and Intro to CSS Layout](Code201/read04.md)
 
-* [Read 06](201/read01.md)
+* [Read 05: Images, Color, Text](Code201/read05.md)
 
 * [Read 07](201/read01.md)
 
