@@ -2,13 +2,13 @@
 
 * [AI and Prompt Engineering](Code201/Prompte-engeneering.md)
 
-* [Intro to Web Development](Code201/read01.md)
+* [Read 01: Intro to Web Development](Code201/read01.md)
 
-* [Basics of HTML, CSS and JS](Code201/read02.md) 
+* [Read 02: Basics of HTML, CSS and JS](Code201/read02.md) 
 
-* [HTML Lists, Control Flow with JS, and the CSS Box Model](Code201/read03.md)
+* [Read 03: HTML Lists, Control Flow with JS, and the CSS Box Model](Code201/read03.md)
 
-* [HTML Links, JS Functions, and Intro to CSS Layout](Code201/read04.md)
+* [Read 04: HTML Links, JS Functions, and Intro to CSS Layout](Code201/read04.md)
 
 * [Read 06](201/read01.md)
 
