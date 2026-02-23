@@ -12,9 +12,9 @@
 
 * [Read 05: Images, Color, Text](Code201/read05.md)
 
-* [Read 07](201/read01.md)
+* [Read 06: Domain Modeling, Intro to the DOM, and Object Literal Notations](201/read01.md)
 
-* [Read 08](201/read01.md)
+* [Read 07: HTML Tables and JS Constructor Functions](201/read01.md)
 
 * [Read 09](201/read01.md)
 
