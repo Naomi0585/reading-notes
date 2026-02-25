@@ -51,7 +51,7 @@ while preserving respect for others.
 * [Read 05: Images, Color, Text](/Code201/Code201/read05.md)
 * [Read 06: Domain Modeling, Intro to the DOM, and Object Literal Notations](Code102/Read03.md)
 * [Read 07: HTML Tables and JS Constructor Functions](Code102/Read03.md)
-* [Read 09](Code102/Read03.md)
+* [Read 08: Layout with CSS](Code201/Code201/read08.md)
 * [Read 10](Code102/Read03.md)
 * [Read 11](Code102/Read03.md)
 * [Read 12](Code102/Read03.md)

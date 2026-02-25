@@ -16,7 +16,7 @@
 
 * [Read 07: HTML Tables and JS Constructor Functions](201/read01.md)
 
-* [Read 09](201/read01.md)
+* [Read 08: Layout with CSS](Code201/read08.md)
 
 * [Read 10](201/read01.md)
 
