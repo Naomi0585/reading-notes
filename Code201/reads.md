@@ -14,7 +14,7 @@
 
 * [Read 06: Domain Modeling, Intro to the DOM, and Object Literal Notations](Code201/read06.md)
 
-* [Read 07: HTML Tables and JS Constructor Functions](201/read01.md)
+* [Read 07: HTML Tables and JS Constructor Functions](Code201/read07.md)
 
 * [Read 08: Layout with CSS](Code201/read08.md)
 
