@@ -52,7 +52,7 @@ while preserving respect for others.
 * [Read 06: Domain Modeling, Intro to the DOM, and Object Literal Notations](Code201/Code201/read06.md)
 * [Read 07: HTML Tables and JS Constructor Functions](Code201/Code201/read07.md)
 * [Read 08: Layout with CSS](Code201/Code201/read08.md)
-* [Read 10](Code102/Read03.md)
+* [Read 09: Forms and Events](Code201/Code201/read09.md)
 * [Read 11](Code102/Read03.md)
 * [Read 12](Code102/Read03.md)
 * [Read 13](Code102/Read03.md)
