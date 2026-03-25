@@ -53,9 +53,9 @@ while preserving respect for others.
 * [Read 07: HTML Tables and JS Constructor Functions](Code201/Code201/read07.md)
 * [Read 08: Layout with CSS](Code201/Code201/read08.md)
 * [Read 09: Forms and Events](Code201/Code201/read09.md)
-* [Read 11](Code102/Read03.md)
-* [Read 12](Code102/Read03.md)
-* [Read 13](Code102/Read03.md)
+* [Read 10: Debugging and Error Handling](Code201/Code201/read10.md)
+* [Read 11: Audio and Video in HTML](Code201/Code201/read11.md)
+* [Read 12: Chart.js and Canvas](Code201/Code201/read12.md)
 * [Read 14](Code102/Read03.md)
 * [Read 15](Code102/Read03.md)
 

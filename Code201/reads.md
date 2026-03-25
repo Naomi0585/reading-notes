@@ -20,11 +20,11 @@
 
 * [Read 09: Forms and Events](Code201/read09.md)
 
-* [Read 11](201/read01.md)
+* [Read 10: Debugging and Error Handling](Code201/read10.md)
 
-* [Read 12](102/read01.md)
+* [Read 11: Audio and Video in HTML](Code201/read11.md)
 
-* [Read 13](102/read01.md)
+* [Read 12: Chart.js and Canvas](Code201/read12.md)
 
 * [Read 14](102/read01.md)
 
