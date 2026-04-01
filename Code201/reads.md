@@ -26,6 +26,6 @@
 
 * [Read 12: Chart.js and Canvas](Code201/read12.md)
 
-* [Read 14](102/read01.md)
+* [Read 13: Local Storage](code201/read13.md)
 
 * [Read 15](102/read01.md)

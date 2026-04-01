@@ -56,7 +56,7 @@ while preserving respect for others.
 * [Read 10: Debugging and Error Handling](Code201/Code201/read10.md)
 * [Read 11: Audio and Video in HTML](Code201/Code201/read11.md)
 * [Read 12: Chart.js and Canvas](Code201/Code201/read12.md)
-* [Read 14](Code102/Read03.md)
+* [Read 13: Local Storage](Code201/Code201/read13.md)
 * [Read 15](Code102/Read03.md)
 
 # ★ Code 301 ★
