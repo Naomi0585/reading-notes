@@ -1,7 +1,7 @@
 ## 301 Reading notes 
 
 
-* [Read 01](201/read02.md)
+* [Read 01: Introduction to React and Components](Code301/read01.md)
 
 * [Read 02](201/read02.md)
 

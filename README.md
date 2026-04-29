@@ -64,7 +64,7 @@ while preserving respect for others.
 
 ### Table of contents: 
 
-* [Read 01](Code102/Read03.md)
+* [Read 01: Introduction to React and Components](Code301/read01.md)
 * [Read 02](Code102/Read03.md)
 * [Read 03](Code102/Read03.md)
 * [Read 04](Code102/Read03.md)
