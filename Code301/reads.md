@@ -3,7 +3,7 @@
 
 * [Read 01: Introduction to React and Components](Code301/read01.md)
 
-* [Read 02](201/read02.md)
+* [Read 02: State and Props](Code301/read02.md)
 
 * [Read 03](201/read01.md) 
 
