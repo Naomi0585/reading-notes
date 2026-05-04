@@ -1,7 +1,7 @@
 # State and Props 
 
 ## React Lifecycle 
-![Diagram](Code301/image.png)
+![Diagram](image.png)
 
 In the diagram shown above we can see that **The Render** is what takes place before the *componentDidMount*.
 **Mounting** is when an instance of a component is being created and inserted into the DOM. 
