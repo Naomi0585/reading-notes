@@ -15,7 +15,7 @@ In the diagram shown above we can see that **The Render** is what takes place be
 
 ### `componentDidMount`
 
-This method is invoked immediatey after a component is mounted. If you need to load anything using a network request or initialize the DOM, it should go here. This method is a good pace to set up any subscriptions. 
+This method is invoked immediatey after a component is mounted. If you need to load anything using a network request or initialize the DOM, it should go here. This method is a good place to set up any subscriptions. 
 
 ## Reacts State VS. Props 
 
@@ -29,4 +29,4 @@ In the props you can pass any data needed to configure a component, similar to a
 
 * A *component* re-renders when theres a main trigger or "state change" or when the props change. (As a side note: Updating state causes React to re-render that part of the UI). 
 
-* State should store data that changes over time and affects the UI. A counter that increments form data that updates and user types. 
+* State should store data that changes over time and affects the UI. A counter that increments form data that updates and user inputs. 

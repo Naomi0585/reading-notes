@@ -5,7 +5,7 @@
 
 * [Read 02: State and Props](Code301/read02.md)
 
-* [Read 03](201/read01.md) 
+* [Read 03: Passing Functions as Props](Code301/read03.md) 
 
 * [Read 04](201/read01.md)
 
