@@ -9,7 +9,7 @@
 
 * [Read 04: React and Forms](Code301/read04.md)
 
-* [Read 05](201/read01.md)
+* [Read 05: Thinking in React](Code301/read05.md)
 
 * [Read 06](201/read01.md)
 
