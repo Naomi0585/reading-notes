@@ -6,12 +6,12 @@
 
  The simple responsability principle means that each component should have **one** clear purpose. It implies that one component should only be handling one task, so it's easier to test later. 
 
- ### Static 
- 
+ #### Static 
+
  To build a static version of your app that renders your data model, you'll want to build *components* that reuse other components and pass data using *props*. 
  After building your components, you'll have a library of reusable components that render your data model. Because this is a static app,the components will only return JSX. The component at the top to the hierarchy will take your data model as a prop. This is called *one-way data flow*.
 
- ### Determining State
+ ##### Determining State
 
 * Does it remain unchanged over time? 
 * Is it passed down from a parent via props? 
