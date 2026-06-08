@@ -11,7 +11,7 @@
 
 * [Read 05: Thinking in React](Code301/read05.md)
 
-* [Read 06](201/read01.md)
+* [Read 06: REST](Code301/read06.md)
 
 * [Read 07](201/read01.md)
 

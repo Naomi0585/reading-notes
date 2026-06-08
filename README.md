@@ -4,6 +4,7 @@
 Growth Mindset is the belief that one's abilities can be developed through perseverance and dedication. A growth mindset can encourage a love for learning. 
 
 ### ׂ╰┈➤ <ins>  3 Reminders for myself: 
+
 1. You can confidently voice your beliefs and views 
 while preserving respect for others. 
 
@@ -57,7 +58,7 @@ while preserving respect for others.
 * [Read 11: Audio and Video in HTML](Code201/Code201/read11.md)
 * [Read 12: Chart.js and Canvas](Code201/Code201/read12.md)
 * [Read 13: Local Storage](Code201/Code201/read13.md)
-* [Read 15](Code102/Read03.md)
+
 
 # ★ Code 301 ★
 ## Intermediate Software Development 
@@ -69,7 +70,7 @@ while preserving respect for others.
 * [Read 03: Passing Functions as Props](Code301/read03.md)
 * [Read 04: React and Forms](Code301/read04.md)
 * [Read 05: Thinking in React](Code301/read05.md)
-* [Read 06](Code102/Read03.md)
+* [Read 06: REST](Code301/read06.md)
 * [Read 07](Code102/Read03.md)
 * [Read 08](Code102/Read03.md)
 * [Read 09](Code102/Read03.md)
