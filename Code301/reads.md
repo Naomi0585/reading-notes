@@ -13,7 +13,7 @@
 
 * [Read 06: REST](Code301/read06.md)
 
-* [Read 07](201/read01.md)
+* [Read 07: Node.js](Code301/read07.md)
 
 * [Read 08](201/read01.md)
 

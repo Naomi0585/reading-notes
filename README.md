@@ -71,7 +71,7 @@ while preserving respect for others.
 * [Read 04: React and Forms](Code301/read04.md)
 * [Read 05: Thinking in React](Code301/read05.md)
 * [Read 06: REST](Code301/read06.md)
-* [Read 07](Code102/Read03.md)
+* [Read 07: Node.js](Code301/read07.md)
 * [Read 08](Code102/Read03.md)
 * [Read 09](Code102/Read03.md)
 * [Read 10](Code102/Read03.md)
