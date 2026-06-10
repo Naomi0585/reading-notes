@@ -15,7 +15,7 @@
 
 * [Read 07: Node.js](Code301/read07.md)
 
-* [Read 08](201/read01.md)
+* [Read 08: APIs](Code301/read08.md)
 
 * [Read 09](201/read01.md)
 
