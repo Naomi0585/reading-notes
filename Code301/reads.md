@@ -17,6 +17,6 @@
 
 * [Read 08: APIs](Code301/read08.md)
 
-* [Read 09](201/read01.md)
+* [Read 09: Functional Programming](Code301/read09/md)
 
 * [Read 10](201/read01.md)
