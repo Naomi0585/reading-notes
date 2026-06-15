@@ -23,19 +23,12 @@ while preserving respect for others.
 
 
 * [Read 01:Learning Markdown](Code102/read01.md)
-
 * [Read 02:The Coder's Computer](Code102/Read02.md)
-
 * [Read 03:Revisions and the Cloud](Code102/Read03.md)
-
 * [Read 04:Structure Web Pages with HTML](Code102/Read04.md)
-
 * [Read 05:Design Web Pages with CSS](Code102/Read05.md)
-
 * [Read 06:Dynamic Web Pages with JavaScript](Code102/Read06.md)
-
 * [Read 07:Programming with JavaScript](Code102/Read07.md)
-
 * [Read 08:Operators and Loops](Code102/Read08.md)
 
 
