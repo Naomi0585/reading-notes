@@ -17,7 +17,7 @@ If a function consistently yields the same result for the same input, it is refe
 `pure functions` + `immutable data` = `referential transparency` 
 
 
-### Modules and Require: 
+## Modules and Require: 
 
 A modules is a file that contains code (such as variables and functions) that can be reused in other files. Modules help organize code and keep it manageable. To make a module available we must export the functions, variables or objects we want other files to use by using: `module.exports`. 
 

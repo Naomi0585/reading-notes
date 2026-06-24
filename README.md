@@ -67,7 +67,7 @@ while preserving respect for others.
 * [Read 07: Node.js](Code301/read07.md)
 * [Read 08: APIs](Code301/read08.md)
 * [Read 09: Functional Programming](Code301/read09.md)
-* [Read 10](Code102/Read03.md)
+* [Read 10: In Memory Storage](Code301/read10.md)
 
 # ★ Code 401 ★
 ## Advanced Software Development 
