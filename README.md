@@ -70,6 +70,7 @@ while preserving respect for others.
 * [Read 10: In Memory Storage](Code301/read10.md)
 * [Read 11: MongoDB and Mongoose](Code301/read11.md)
 * [Read 12: CRUD](Code301/read12.md)
+* [Read 13: CRUD Basics and CRUD API](Code301/read13.md)
 
 # ★ Code 401 ★
 ## Advanced Software Development 
