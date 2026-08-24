@@ -4,7 +4,7 @@
 
 * [Read 02](201/read02.md)
 
-* [Read 03](201/read01.md) 
+* [Read 03](201/read01.md)
 
 * [Read 04](201/read01.md)
 
