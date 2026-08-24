@@ -88,5 +88,4 @@ while preserving respect for others.
 * [Read 09](Code102/Read03.md)
 * [Read 10](Code102/Read03.md)
 
-
-[NOTES](Code401/notes.md)
+* [NOTES](Code401/notes.md)
