@@ -78,8 +78,8 @@ while preserving respect for others.
 ### Table of contents: 
 
 * [Read 01: Node Ecosystem](Code401/read01.md)
-* [Read 02](Code102/Read03.md)
-* [Read 03](Code102/Read03.md)
+* [Read 02: Express, NPM, TDD, CI/CD ](Code401/read02.md)
+* [Read 03: Express, REST and API ](Code401/read03.md)
 * [Read 04](Code102/Read03.md)
 * [Read 05](Code102/Read03.md)
 * [Read 06](Code102/Read03.md)
