@@ -6,7 +6,7 @@
 
 * [Read 03: Express, REST and API ](Code401/read03.md)
 
-* [Read 04](201/read01.md)
+* [Read 04: Data Modeling](Code401/read04.md)
 
 * [Read 05](201/read01.md)
 
