@@ -8,7 +8,7 @@
 
 * [Read 04: Data Modeling](Code401/read04.md)
 
-* [Read 05](201/read01.md)
+* [Read 05: Implementation: Linked Lists](Code401/read05.md)
 
 * [Read 06](201/read01.md)
 
