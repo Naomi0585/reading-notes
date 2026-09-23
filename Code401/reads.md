@@ -10,7 +10,7 @@
 
 * [Read 05: Implementation: Linked Lists](Code401/read05.md)
 
-* [Read 06](201/read01.md)
+* [Read 06: Authentication](Code401/read06.md)
 
 * [Read 07](201/read01.md)
 

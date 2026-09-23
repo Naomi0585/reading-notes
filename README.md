@@ -82,7 +82,7 @@ while preserving respect for others.
 * [Read 03: Express, REST and API ](Code401/read03.md)
 * [Read 04: Data Modeling](Code401/read04.md)
 * [Read 05: Implementation: Linked Lists](Code401/read05.md)
-* [Read 06](Code102/Read03.md)
+* [Read 06: Authentication](Code401/read06.md)
 * [Read 07](Code102/Read03.md)
 * [Read 08](Code102/Read03.md)
 * [Read 09](Code102/Read03.md)
