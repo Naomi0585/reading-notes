@@ -12,7 +12,7 @@
 
 * [Read 06: Authentication](Code401/read06.md)
 
-* [Read 07](201/read01.md)
+* [Read 07: Bearer Authorization](Code401/read07.md)
 
 * [Read 08](201/read01.md)
 
