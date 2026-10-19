@@ -14,7 +14,7 @@
 
 * [Read 07: Bearer Authorization](Code401/read07.md)
 
-* [Read 08](201/read01.md)
+* [Read 08: Access Control (ACL)](Code401/read08.md)
 
 * [Read 09](201/read01.md)
 

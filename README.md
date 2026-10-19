@@ -84,7 +84,7 @@ while preserving respect for others.
 * [Read 05: Implementation: Linked Lists](Code401/read05.md)
 * [Read 06: Authentication](Code401/read06.md)
 * [Read 07: Bearer Authorization](Code401/read07.md)
-* [Read 08](Code102/Read03.md)
+* [Read 08: Access Control (ACL)](Code401/read08.md)
 * [Read 09](Code102/Read03.md)
 * [Read 10](Code102/Read03.md)
 
